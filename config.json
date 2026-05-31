@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydelete",
+        "uuid": 4106052,
+        "checksum": "x5ywb"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
